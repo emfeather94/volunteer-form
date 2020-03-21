@@ -42,26 +42,12 @@ hr {
     padding-right: 1.25em;
   }
 
-
-
-  .tel {
-    padding-right: ;
-  }
-
   .street {
     padding-right: 1.25em;
   }
 
-  .city {
-    padding-right: ;
-  }
-
   .region {
     padding-right: 1.25em;
-  }
-
-  .postal {
-    padding-right: ;
   }
 
   .date {
@@ -71,9 +57,4 @@ hr {
   .email {
     padding-right: 1.25em;
   }
-
-  .subject {
-    padding-right: ;
-  }
-
 }
